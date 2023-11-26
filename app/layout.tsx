@@ -11,9 +11,9 @@ const dmSans = DM_Sans({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "ArtechFuz3D Popular Anime",
   description: "Your favorite anime, all in one place.",
-  openGraph: {
-    url: '/anime.png'
-  }
+  // openGraph: {
+  //   url: '/anime.png'
+  // }
 };
 
 export default function RootLayout({
